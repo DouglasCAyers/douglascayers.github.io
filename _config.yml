@@ -1,3 +1,12 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Doug Ayers
+url: http://douglascayers.github.io
+description: My journey with Salesforce and technology
+twitter: DouglasCAyers
