@@ -20,3 +20,10 @@ Setup time approximately **10-15 minutes**.
 
 > As noted above, I actually created two properties, one named “Salesforce Production” and the other “Salesforce Sandbox”.
 
+3) As personal preference, if you scroll down on that same **Property Settings** page then under the **In-Page Analytics** section you can enable the [Use enhanced link attribution](https://support.google.com/analytics/answer/2558867?hl=en&utm_id=ad). Because of this, you’ll notice some extra javascript I had to include when we move on to the next step of creating the static resource for Salesforce.
+
+4) And because Salesforce loads standard content and visualforce content on different sub-domains, I also enabled [cross-domain tracking](https://developers.google.com/analytics/devguides/collection/analyticsjs/cross-domain), which is a couple more lines of javascript we’ll see in the next step.
+
+![Property Settings]({{ site.github.url }}/images/google-analytics/0_analytics.png)
+
+---
