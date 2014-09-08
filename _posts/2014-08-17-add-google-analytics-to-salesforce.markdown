@@ -24,6 +24,6 @@ Setup time approximately **10-15 minutes**.
 
 4) And because Salesforce loads standard content and visualforce content on different sub-domains, I also enabled [cross-domain tracking](https://developers.google.com/analytics/devguides/collection/analyticsjs/cross-domain), which is a couple more lines of javascript we’ll see in the next step.
 
-![Property Settings]({{ site.github.url }}/images/google-analytics/0_analytics.png)
+![Property Settings]({{ site.github.url }}/blob/master/images/google-analytics/0_analytics.png)
 
 ---
