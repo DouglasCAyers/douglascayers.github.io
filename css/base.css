@@ -3,9 +3,19 @@ body {
   font-family: "PT Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   margin: 0;
   webkit-font-smoothing: antialiased;
+  background-color: #f0f1f2;
 }
-a {
-  color: #227ce8;
+a:link {
+  color: #2a94d6;
+}
+a:visited {
+  color: #2a94d6;
+}
+a:hover {
+  color: #2483bd;
+}
+a:active {
+  color: #2a94d6;
 }
 .sidebar {
   position: fixed;
