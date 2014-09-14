@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "PT Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   margin: 0;
   -webkit-font-smoothing: antialiased; }
 
@@ -12,7 +12,7 @@ a {
   left: 15px;
   top: 15px;
   width: 80px;
-  font-family: Helvetica, sans-serif; }
+  font-family: Helvetica, Arial, sans-serif; }
   .sidebar a {
     text-decoration: none; }
   .sidebar img {
@@ -68,28 +68,28 @@ a {
   margin-bottom: 50px; }
   .content h1 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    /*font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;*/
     font-weight: 400; }
   .content h1 a {
     color: #111;
     text-decoration: none; }
   .content h2 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    /*font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;*/
     font-weight: 400; }
   .content h2 a {
     color: #111;
     text-decoration: none; }
   .content h3 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    /*font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;*/
     font-weight: 400; }
   .content h3 a {
     color: #111;
     text-decoration: none; }
   .content h4 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    /*font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;*/
     font-weight: 400; }
   .content h4 a {
     color: #111;
@@ -145,7 +145,7 @@ a {
       font-style: normal; }
   .content .byline {
     margin-bottom: 17px;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    /*font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;*/
     padding-left: 0px;
     font-size: 17px;
     color: #777; }
@@ -154,12 +154,12 @@ a {
     padding: 14px;
     font-size: 14px;
     margin: 5px 0 15px 0;
-    font-family: Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     line-height: 1.6em; }
   .content .listing {
     margin: 10px 0 0 0;
     padding: 0;
-    font-family: Helvetica, sans-serif; }
+    font-family: Helvetica, Arial, sans-serif; }
     .content .listing ul {
       margin: 0;
       padding: 0; }
@@ -179,7 +179,7 @@ a {
   .content .meta {
     margin: 30px 0;
     padding: 10px 0;
-    font-family: Helvetica, sans-serif; }
+    font-family: Helvetica, Arial, sans-serif; }
     .content .meta p {
       line-height: 1.4;
       font-size: 14px;
@@ -200,7 +200,7 @@ a {
     margin-right: 10px;
     padding: 5px 15px;
     border: 1px solid #000;
-    font-family: Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
     font-weight: bold; }
   .content .talk-design .color .white {
