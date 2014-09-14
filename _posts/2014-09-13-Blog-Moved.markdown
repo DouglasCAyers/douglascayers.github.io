@@ -4,7 +4,7 @@ title: Blog Moved
 category: posts
 ---
 
-Please visit me at [http://douglascayers.wordpress.com](http://douglascayers.wordpress.com)
+Please visit me at [http://douglascayers.blogspot.com/](http://douglascayers.blogspot.com/)
 
 Thanks!
 
