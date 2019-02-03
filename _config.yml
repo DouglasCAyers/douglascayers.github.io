@@ -1,15 +1,9 @@
-markdown: rdiscount
-permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
-
-plugins:
-  - jekyll-redirect-from
-
-gems:
-  - jekyll-sitemap
-
 name: Doug Ayers
 url: https://douglascayers.github.io
 description: My journey with Salesforce and technology
-twitter: DouglasCAyers
+twitter: douglascayers
+
+permalink: /posts/:title
+
+gems:
+  - jekyll-sitemap
