@@ -1,0 +1,39 @@
+- href: /atom.xml
+  rel: alternate
+  type: application/rss+xml
+  media: 
+
+- href: https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css
+  rel: stylesheet
+  type: text/css
+  media: 
+  
+- href: /css/base.css
+  rel: stylesheet
+  type: text/css
+  media: screen, projection
+  
+- href: /css/pygments.css
+  rel: stylesheet
+  type: text/css
+  media: 
+  
+- href: /css/mobile.css
+  rel: stylesheet
+  type: text/css
+  media: only screen and (max-device-width: 480px)
+  
+- href: /css/mobile.css
+  rel: stylesheet
+  type: text/css
+  media: only screen and (device-width: 768px)
+  
+- href: https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz
+  rel: stylesheet
+  type: text/css
+  media: 
+  
+- href: /apple-touch-icon.png
+  rel: apple-touch-icon
+  type: 
+  media: 
