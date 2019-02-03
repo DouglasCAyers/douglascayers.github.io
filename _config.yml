@@ -3,6 +3,9 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
+plugins:
+  - jekyll-redirect-from
+
 gems:
   - jekyll-sitemap
 
